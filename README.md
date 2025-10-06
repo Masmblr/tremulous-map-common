@@ -16,5 +16,4 @@ Copy the contents of the `src/` folder into your game’s base directory: game/b
 
 
 ## License
-A comprehensive list of all files and their respective licenses can be found in the following document:
 [→ LICENSE](LICENSE)
