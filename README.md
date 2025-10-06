@@ -1,4 +1,4 @@
-<h3 align="center">Q3 — Custom Mapping Support Files</h3>
+<h3 align="center">Q3 Custom Mapping Support Files</h3>
 
 <p align="center">
 Support files for custom mapping in id-Tech3 and related games.
