@@ -252,17 +252,18 @@ textures/common/lightgrid
 
 textures/common/ladder
 {
-        qer_trans 0.50
-        surfaceparm ladder
-        surfaceparm nodraw
-        surfaceparm nolightmap
-        surfaceparm nonsolid
-        surfaceparm trans
-        surfaceparm nomarks
-        surfaceparm noimpact
-        surfaceparm playerclip
+	qer_trans 0.50
+	surfaceparm ladder
+	surfaceparm nodraw
+	surfaceparm nolightmap
+	surfaceparm nonsolid
+	surfaceparm trans
+	surfaceparm nomarks
+	surfaceparm noimpact
+	surfaceparm playerclip
 }
 
+// Tremulous related:
 textures/common-trem/nobuild
 {
 	qer_trans 0.5
@@ -295,4 +296,3 @@ textures/common-trem/nohumanbuild
 	surfaceparm nomarks
 	surfaceparm nohumanbuild
 }
-
